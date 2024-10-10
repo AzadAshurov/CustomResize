@@ -1,0 +1,14 @@
+C:\Users\Baku\Desktop\AppWithoutResize\bin\Debug\net8.0\AppWithoutResize.exe
+C:\Users\Baku\Desktop\AppWithoutResize\bin\Debug\net8.0\AppWithoutResize.deps.json
+C:\Users\Baku\Desktop\AppWithoutResize\bin\Debug\net8.0\AppWithoutResize.runtimeconfig.json
+C:\Users\Baku\Desktop\AppWithoutResize\bin\Debug\net8.0\AppWithoutResize.dll
+C:\Users\Baku\Desktop\AppWithoutResize\bin\Debug\net8.0\AppWithoutResize.pdb
+C:\Users\Baku\Desktop\AppWithoutResize\obj\Debug\net8.0\AppWithoutResize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\AppWithoutResize\obj\Debug\net8.0\AppWithoutResize.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\AppWithoutResize\obj\Debug\net8.0\AppWithoutResize.AssemblyInfo.cs
+C:\Users\Baku\Desktop\AppWithoutResize\obj\Debug\net8.0\AppWithoutResize.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\AppWithoutResize\obj\Debug\net8.0\AppWithoutResize.dll
+C:\Users\Baku\Desktop\AppWithoutResize\obj\Debug\net8.0\refint\AppWithoutResize.dll
+C:\Users\Baku\Desktop\AppWithoutResize\obj\Debug\net8.0\AppWithoutResize.pdb
+C:\Users\Baku\Desktop\AppWithoutResize\obj\Debug\net8.0\AppWithoutResize.genruntimeconfig.cache
+C:\Users\Baku\Desktop\AppWithoutResize\obj\Debug\net8.0\ref\AppWithoutResize.dll
